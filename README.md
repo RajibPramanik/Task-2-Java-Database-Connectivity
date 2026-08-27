@@ -1,5 +1,6 @@
 
 # 🗄️ Task 2 – Java MySQL CRUD Operations (JDBC)
+<img src="Java-Database-Connectivity.png" alt="JDBC" width="800" height="450">
 
 ## 🎯 Objective
 Create a Java application that connects to a MySQL database using **JDBC** and performs basic **CRUD operations**:
